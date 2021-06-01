@@ -1,4 +1,4 @@
-//we will use a priority queue
+//we will use a priority queue that uses an array this can be faster if we used the priority queue we use the custome priority queue class that was written
 class PriorityQueue {
   constructor() {
     this.values = [];
